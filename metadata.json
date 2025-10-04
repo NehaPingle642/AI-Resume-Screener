@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Screener",
+  "description": "An intelligent application that uses AI to screen resumes against job descriptions, providing a detailed analysis, match score, and suggested interview questions.",
+  "requestFramePermissions": []
+}
